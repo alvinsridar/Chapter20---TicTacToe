@@ -1,0 +1,7 @@
+D:\Coding\C# Player's Guide\Chapter20\Chapter20\bin\Debug\Chapter20.exe.config
+D:\Coding\C# Player's Guide\Chapter20\Chapter20\bin\Debug\Chapter20.exe
+D:\Coding\C# Player's Guide\Chapter20\Chapter20\bin\Debug\Chapter20.pdb
+D:\Coding\C# Player's Guide\Chapter20\Chapter20\obj\Debug\Chapter20.csproj.AssemblyReference.cache
+D:\Coding\C# Player's Guide\Chapter20\Chapter20\obj\Debug\Chapter20.csproj.CoreCompileInputs.cache
+D:\Coding\C# Player's Guide\Chapter20\Chapter20\obj\Debug\Chapter20.exe
+D:\Coding\C# Player's Guide\Chapter20\Chapter20\obj\Debug\Chapter20.pdb
